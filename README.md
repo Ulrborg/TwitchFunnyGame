@@ -71,7 +71,7 @@ const client = new tmi.Client({
 ```
 To generate an OAuth token, you can use [Twitch Token Generator](https://twitchtokengenerator.com/)
 
-## 2 : ❔ Customize Questions:
+## 2 : Customize Questions:
 
 You can modify the questions.json file to customize the quiz questions. Ensure that each question has the correct structure:
 

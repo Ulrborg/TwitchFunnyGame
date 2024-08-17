@@ -1,0 +1,262 @@
+[
+    {
+        "question": "Who is the main character in the series 'Breaking Bad'?",
+        "choices": ["Walter White", "Jesse Pinkman", "Saul Goodman", "Hank Schrader"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which fruit is used to make traditional balsamic vinegar?",
+        "choices": ["Grapes", "Apple", "Fig", "Pear"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which sous-vide cooking method involves cooking food in a sealed environment at low temperature for an extended period?",
+        "choices": ["Poaching", "Braising", "Sous-vide", "Grilling"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the first video game where Mario appeared?",
+        "choices": ["Super Mario Bros.", "Donkey Kong", "Mario Kart", "Luigi's Mansion"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which fast-food chain introduced the Whopper in 1957?",
+        "choices": ["McDonald's", "Burger King", "KFC", "Wendy's"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "choices": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which video game features a fast blue hedgehog collecting rings?",
+        "choices": ["Mario Kart", "Sonic the Hedgehog", "Mega Man", "Pac-Man"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What currency is used in the United Kingdom?",
+        "choices": ["Euro", "Dollar", "Pound Sterling", "Yen"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the boiling point of sugar syrup needed to make hard candy?",
+        "choices": ["110°C", "121°C", "143°C", "160°C"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "choices": ["Sahara Desert", "Gobi Desert", "Atacama Desert", "Arabian Desert"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In which country is the city of Sydney located?",
+        "choices": ["New Zealand", "Australia", "Canada", "South Africa"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which electronic component is essential for non-volatile storage in modern computers?",
+        "choices": ["Transistor", "Capacitor", "Flash Memory", "Resistor"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which programming language is primarily used for Android app development?",
+        "choices": ["Python", "Swift", "Kotlin", "Ruby"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which type of cryptography is used in most secure communications on the Internet?",
+        "choices": ["Symmetric cryptography", "Asymmetric cryptography", "Quantum cryptography", "Stream cryptography"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which British TV series follows the investigations of Sherlock Holmes and his sidekick John Watson?",
+        "choices": ["Sherlock", "Luther", "Broadchurch", "Doctor Who"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which fast-food chain is famous for its 'Double-Double' and 'Animal Style' on its secret menu?",
+        "choices": ["Five Guys", "In-N-Out Burger", "Shake Shack", "Whataburger"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the chemical symbol for iron?",
+        "choices": ["Fe", "F", "Ir", "I"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which sorting algorithm has the lowest average time complexity?",
+        "choices": ["Bubble Sort", "Quick Sort", "Insertion Sort", "Selection Sort"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In which TV series do the main characters find themselves on a deserted island after a plane crash?",
+        "choices": ["Lost", "Gilligan's Island", "Survivor", "The 100"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which fast-food chain is the largest in terms of the number of restaurants worldwide?",
+        "choices": ["Subway", "McDonald's", "Starbucks", "Burger King"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the name of the process by which vegetable oils are solidified to create margarine?",
+        "choices": ["Esterification", "Hydrogenation", "Saponification", "Emulsification"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which fast-food chain is known for its 'Frosty', a frozen dessert?",
+        "choices": ["McDonald's", "Wendy's", "Dairy Queen", "Burger King"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In which country is the Great Wall located?",
+        "choices": ["India", "China", "Japan", "South Korea"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which fast-food chain is famous for its Colonel and fried chicken recipes?",
+        "choices": ["Chick-fil-A", "KFC", "Popeyes", "Church's Chicken"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which planet is nicknamed the 'Red Planet'?",
+        "choices": ["Mercury", "Mars", "Jupiter", "Venus"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who wrote 'The Odyssey'?",
+        "choices": ["Hesiod", "Homer", "Sophocles", "Plato"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the smallest country in the world by area?",
+        "choices": ["Monaco", "Vatican", "Nauru", "Malta"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which fighting video game features characters from Nintendo franchises?",
+        "choices": ["Street Fighter", "Super Smash Bros.", "Tekken", "Mortal Kombat"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the main ingredient in the Japanese dish 'Miso'?",
+        "choices": ["Fermented soybeans", "Rice", "Nori", "Daikon"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which online multiplayer video game features champions fighting in an arena?",
+        "choices": ["Overwatch", "League of Legends", "Dota 2", "Fortnite"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the title of the latest 'The Legend of Zelda' game released on the Nintendo Switch in 2023?",
+        "choices": ["Breath of the Wild", "Twilight Princess", "Tears of the Kingdom", "Ocarina of Time"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who discovered America in 1492?",
+        "choices": ["Marco Polo", "Vasco da Gama", "Christopher Columbus", "Amerigo Vespucci"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the name of the throne sought after in the series 'Game of Thrones'?",
+        "choices": ["Iron Throne", "Crystal Throne", "Marble Throne", "Golden Throne"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the largest continent by area?",
+        "choices": ["Africa", "Asia", "North America", "Europe"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In which TV series do the characters follow the adventures of the Winchesters?",
+        "choices": ["The X-Files", "Buffy the Vampire Slayer", "Supernatural", "Charmed"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which ocean is the deepest in the world?",
+        "choices": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Arctic Ocean"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which fast-food chain introduced the first drive-in?",
+        "choices": ["Sonic", "In-N-Out Burger", "McDonald's", "A&W"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the tallest building in the world?",
+        "choices": ["Shanghai Tower", "Burj Khalifa", "Empire State Building", "Petronas Towers"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In which video game do you play as a bounty hunter named Samus Aran?",
+        "choices": ["Halo", "Metroid", "Destiny", "Mass Effect"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which fast-food chain offers tacos and is famous for its 'Live Más' slogan?",
+        "choices": ["Chipotle", "Del Taco", "Taco Bell", "Qdoba"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In which video game do players have to survive in a post-apocalyptic world infested with zombies?",
+        "choices": ["Resident Evil", "Silent Hill", "The Last of Us", "Left 4 Dead"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which video game character is known for the phrase 'It's-a me, Mario!'?",
+        "choices": ["Sonic", "Link", "Mario", "Crash Bandicoot"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "choices": ["Vincent van Gogh", "Pablo Picasso", "Claude Monet", "Leonardo da Vinci"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Who is the author of 'Romeo and Juliet'?",
+        "choices": ["William Shakespeare", "Victor Hugo", "Molière", "Charles Dickens"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which fast-food chain is known for its slogan 'I'm Lovin' It'?",
+        "choices": ["Burger King", "Wendy's", "McDonald's", "Subway"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which animal is the king of the jungle?",
+        "choices": ["Tiger", "Elephant", "Lion", "Panther"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the largest planet in the solar system?",
+        "choices": ["Earth", "Jupiter", "Saturn", "Mars"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which online multiplayer video game features champions fighting in an arena?",
+        "choices": ["Overwatch", "League of Legends", "Dota 2", "Fortnite"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the name of the company that develops the 'The Elder Scrolls' video game series?",
+        "choices": ["Blizzard", "Ubisoft", "Bethesda", "Electronic Arts"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which character in the series 'Friends' is a struggling actor?",
+        "choices": ["Chandler", "Joey", "Ross", "Monica"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the chemical element with the symbol H?",
+        "choices": ["Helium", "Hydrogen", "Hafnium", "Holmium"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the capital of Italy?",
+        "choices": ["Rome", "Milan", "Venice", "Florence"],
+        "correctAnswer": 0
+    }
+]
